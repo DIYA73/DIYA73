@@ -15,9 +15,8 @@
 
 
 
-⸻
 
-🧠 About Me
+📌 About Me
 	•	Backend engineer specializing in Node.js & TypeScript
 	•	Building SaaS products for developers
 	•	Creating fashion & e-commerce platforms
@@ -26,7 +25,7 @@
 
 I build real products, not just code.
 
-⸻
+⸻⸻⸻⸻⸻⸻
 
 🛠 Tech Stack
 
@@ -42,7 +41,7 @@ Docker • GitHub Actions • CI/CD • Stripe
 Frontend:
 React • Next.js • TailwindCSS
 
-⸻
+⸻⸻⸻⸻⸻⸻
 
 🚀 Core Projects
 
@@ -58,7 +57,7 @@ Full-stack fashion e-commerce platform with admin dashboard.
 Secure Node API
 Production-ready backend with CI/CD and security best practices.
 
-⸻
+⸻⸻⸻⸻⸻⸻
 
 📊 GitHub Stats
 
@@ -79,6 +78,8 @@ Production-ready backend with CI/CD and security best practices.
 LinkedIn: www.linkedin.com/in/didi-86b00329
 
 Email: diyaismahil7@gmail.com
+
+
 
 
 <p align="center">⚡ Building real SaaS. First $100 online coming.</p>
