@@ -10,30 +10,36 @@
 ---
 
 ### 🧠 About Me
-- 💻 Backend Developer working with **Node.js & TypeScript**
-- 🔐 Building secure APIs & real-world backend systems
-- ⚙️ Learning **System Design & Full-Stack Architecture**
-- 🚀 Focused on becoming elite full-stack engineer
-- 🌍 From Kurdistan — building global-level projects
+
+- 💻 Backend Engineer specializing in **Node.js & TypeScript**
+- 🔐 Designing secure, scalable APIs and backend architectures
+- ⚙️ Passionate about system design and production-ready systems
+- 🚀 Building SaaS platforms and real-world full-stack applications
+- 🌍 Engineering from Kurdistan — shipping globally
 
 ---
 
 ### 🛠 Tech Stack
+
 **Backend**
 - Node.js
 - Express.js
 - TypeScript
-- REST APIs
-- JWT Auth
+- RESTful APIs
+- JWT Authentication
+- Redis
 
-**Database & Tools**
-- MongoDB
+**Database**
 - PostgreSQL
+- MongoDB
+
+**DevOps & Tools**
 - Docker
 - GitHub Actions (CI/CD)
-- Git & GitHub
+- Git
+- Stripe Integration
 
-**Frontend (Learning)**
+**Frontend**
 - React
 - Next.js
 - TailwindCSS
@@ -41,11 +47,18 @@
 ---
 
 ### 🚀 Featured Projects
-🔐 **Secure Node API**  
-> Production-ready backend with authentication, Docker & CI/CD
 
-🌐 **Neergz Full-Stack Web App**  
-> Modern scalable web app using TypeScript, Node & React
+🔐 **API Rate Guardian**
+Production-ready rate limiting & abuse detection service using Node.js, Redis & Docker.
+
+🏢 **CoreStack SaaS**
+Multi-tenant SaaS platform with Stripe subscriptions, JWT auth, and admin dashboard.
+
+🛍 **Neergz Fashion Platform**
+Full-stack React & Node.js application with admin panel and JWT authentication.
+
+🛡 **Secure Node API**
+Dockerized backend with CI/CD and security best practices.
 
 ---
 
