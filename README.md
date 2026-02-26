@@ -68,8 +68,7 @@ Production-ready backend with CI/CD and security best practices.
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/
-	        ?user=DIYA73&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIYA73&theme=tokyonight" />
 </p>
 
 
@@ -79,6 +78,7 @@ Production-ready backend with CI/CD and security best practices.
 🤝 Connect With Me
 
 LinkedIn: www.linkedin.com/in/didi-86b00329
+
 Email: diyaismahil7@gmail.com
 
 ⸻
