@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diya</h1>
 <h3 align="center">Backend Developer | Full-Stack Learner | Building Real-World Systems</h3>
-
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+TypeScript;Full+Stack+Engineer+in+Progress;Building+APIs+and+Scalable+Apps;Always+Learning+and+Growing" />
 </p>
