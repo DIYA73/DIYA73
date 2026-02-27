@@ -64,8 +64,6 @@ Production-ready backend with CI/CD and security best practices.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DIYA73&show_icons=true&theme=tokyonight" />
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIYA73&theme=tokyonight" />
 </p>
@@ -78,6 +76,7 @@ Production-ready backend with CI/CD and security best practices.
 LinkedIn: www.linkedin.com/in/didi-86b00329
 
 Email: diyaismahil7@gmail.com
+
 
 
 
