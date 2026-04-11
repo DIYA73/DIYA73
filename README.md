@@ -1,8 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Diya;Full-Stack+Engineer;SaaS+%2B+Microservices+Builder;11+Projects+%E2%80%A2+3+Live+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Diya</h1>
 
 <h3 align="center">Full-Stack & Microservices Engineer | TypeScript • React • Node.js • Laravel</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/b0/ad/4e/b0ad4ee9c383a5158b9321c9a8c03819.jpg" width="100%" alt="Developer Workspace" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=SaaS+%2B+Microservices+Builder;11+Projects+%E2%80%A2+3+Live+Deployments;Building+Scalable+Systems;Node.js+%7C+TypeScript+Engineer" alt="Typing SVG" />
+</p>
+
 <h4 align="center">Building production SaaS platforms, microservices, and scalable systems 🌍</h4>
 
 <p align="center">
