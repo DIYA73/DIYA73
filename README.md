@@ -474,3 +474,4 @@ I'm actively looking for **remote opportunities** where I can:
   <i>Built with ❤️ by a developer who ships real products, not just code.</i><br/>
   <i>Based in Kurdistan 🌍 — Building for global users 🌎</i>
 </p>
+_______________________________________
