@@ -1,4 +1,4 @@
-<h1 align="center">Hi ❤️✨, I'm Diya</h1>
+<h1 align="center">Hi ❤️, I'm Diya</h1>
 
 <h3 align="center">Full-Stack & Microservices Engineer | TypeScript • React • Node.js • Laravel</h3>
 
