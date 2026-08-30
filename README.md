@@ -1,10 +1,10 @@
-Hi, there! 👋
+# Hi, I'm Diya 👋
 
-I'm a Full-Stack TypeScript Engineer building a growing suite of tools for the MCP (Model Context Protocol) ecosystem.
+Full-Stack TypeScript Engineer building the MCP ecosystem.
 
-- I'm building **FleetWatch** — real-time uptime & health monitoring for MCP servers.
-- I'm building **MCP Blackbox** — a forensic recording proxy that captures traces around MCP failures.
-- I'm building **ContextPulse** & **ContextPulse MCP** — AI observability and context management for LLM agents.
-- I develop scalable backend systems with NestJS, PostgreSQL, Redis, BullMQ, and Docker — and love contributing to open source.
+- **FleetWatch** — real-time uptime monitoring for MCP servers
+- **MCP Blackbox** — forensic recording proxy for MCP failures  
+- **ContextPulse** — AI observability & context management for LLM agents
+- **AgentFlow** — visual AI agent builder with live execution streaming
 
-Thanks for visiting.
+Contributor to [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) · NestJS · Next.js · PostgreSQL · Redis · Docker
